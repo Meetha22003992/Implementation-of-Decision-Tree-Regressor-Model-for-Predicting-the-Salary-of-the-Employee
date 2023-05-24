@@ -70,7 +70,7 @@ dt.predict([[5,6]])
 ```
 
 ## Output:
-![image](https://github.com/Meetha22003992/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119401038/217f7014-739c-4c3d-ad88-f34b07daae34)
+![image](https://github.com/Meetha22003992/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119401038/6502ce4a-f539-4cb7-b2a2-7a3fe2ba248c)
 
 ![image](https://github.com/Meetha22003992/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119401038/206fd001-f939-4798-8730-4fa5721f4c7b)
 
